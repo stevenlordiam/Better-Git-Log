@@ -3,7 +3,13 @@ A much more beautiful git log
 
 Example:
 
-![alt text](https://github.com/stevenlordiam/Better-Git-Log/blob/master/demo.png "demo")
+Before
+
+![alt text](https://github.com/stevenlordiam/Better-Git-Log/blob/master/before.png "before")
+
+After
+
+![alt text](https://github.com/stevenlordiam/Better-Git-Log/blob/master/after.png "after")
 
 ###Usage:
 1. change to directory in the script to your git directory
