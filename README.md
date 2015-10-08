@@ -18,5 +18,8 @@ After
 
 3. Enjoy!
 
+###Reference:
+[Git Tips](http://www.alexkras.com/19-git-tips-for-everyday-use)
+
 ###License:
 [The MIT license (MIT)](http://opensource.org/licenses/MIT)
